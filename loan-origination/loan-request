@@ -1,0 +1,46 @@
+## BODY  
+
+```json
+{
+  "firstname": "Wale",
+  "lastname": "Boyles",
+  "phone_number": "+2347099043888",
+  "home_address": "6, Anthony Crescent Road",
+  "email": "walesboyles1@gmail.com",
+  "bvn": "22223333444",
+  "nin": "12345678900",
+  "loan_type": "personal_loan",
+  "lcga": "Mushin LCGA",
+  "state_of_residence": "Lagos State",
+  "loan_purpose": "To Not Starve",
+  "requested_amount": 20000,
+  "requested_tenor": 3,
+  "gender": "male"
+}
+```
+
+## Verify Email
+
+--json
+{
+    "token" : "AxmKbU",
+    "borrower_id" : 1,
+    "email" : "walesboyles@gmail.com"
+}
+---
+
+## Get Employment Information
+{
+    "employment_type": "Employed",
+    "employer_name": "DCM electronics",
+    "company_sector": "Electronics",
+    "net_income": 100000.00,
+    "employment_start_date": "2024-12-01",
+    "designation": "Chief Engineer",
+    "work_email": "wales4dcm@dcmelec.com",
+    "employer_address": "6, Aladie Street, Oshomu",
+    "state_of_residence": "Lagos",
+    "lcga": "Oshomu",
+    "requested_tenor": 3,
+    "borrower_id": 1
+}
