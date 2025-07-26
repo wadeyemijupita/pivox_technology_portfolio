@@ -1,0 +1,42 @@
+{
+  "analysis_summary": {
+    "tenant_id": "1d86f715-0df1-4605-88db-402514563d17",
+    "file_name": "test4004.pdf",
+    "client_name": "ABC COMPANY",
+    "bank_name": "ACCESS BANK",
+    "account_id": "1428909126",
+    "statement_type": "CONSUMER",
+    "processing_status": "PROCESSED",
+    "failed_reason": "Analysis Failed",
+    "account_balance": -1330698.68,
+    "analysis_period": {
+      "start_date": "2024-01-01",
+      "end_date": "2025-03-27"
+    },
+    "spending_profile": {
+      "most_frequent_category": "hospitality_and_food_transactions",
+      "average_monthly_expense": 23160425.63,
+      "total_expense": 301085533.16,
+      "highest_monthly_spend": {
+        "month": "1/2025",
+        "amount": 37043382.93
+      }
+    },
+    "transaction_patterns": {
+      "total_transactions": 3331,
+      "percent_debit": 0.74,
+      "percent_credit": 0.26,
+      "most_frequent_debit_transfer": "esporta",
+      "most_frequent_expense": {
+        "description": "si 1428909126 0802026963",
+        "amount": 50000
+      }
+    },
+    "self_transfers": {
+      "inflows": 168,
+      "outflows": 327,
+      "inflow_amount": 84073090,
+      "outflow_amount": 62092630.58
+    }
+  }
+}
