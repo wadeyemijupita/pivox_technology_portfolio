@@ -4,14 +4,6 @@ Welcome to the Pivox Technnlogy Portfolio — a collection of fintech infrastruc
 ## About Jupita
 Jupita is a lending infrastructure company building modular tools for digital lenders and microfinance banks across Africa. We specialize in loan origination, underwriting, credit decision engines, bank statement analysis, and real-time scoring systems.
 
-## My Role
-As Founder and Product Lead, I:
-- Defined the product strategy and roadmap
-- Wrote detailed PRDs and risk logic frameworks
-- Managed a remote engineering team (frontend, backend, data)
-- Led implementation, testing, and deployment
-- Worked directly with financial institutions to tailor solutions
-
 ## Products
 
 ### 🔹 FlowkyAI – Credit Decision Engine
